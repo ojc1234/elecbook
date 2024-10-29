@@ -37,7 +37,7 @@
 
 * 두벡터의 덧셈
     
-    $\vec{a}+\vec{b}$ $=$ <$a_x + b_x, a_y + b_y, a_z + b_z$>
+    $\vec{a}+\vec{b}$ = $a_x + b_x, a_y + b_y, a_z + b_z$
 
     정의한다
 

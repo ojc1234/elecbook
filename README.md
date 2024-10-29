@@ -11,7 +11,9 @@
 # 벡터
 ## 벡터의 정의
 
-{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} }
+```math
+        \{<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}\}
+```
 
 전자기학에서 쓰는 벡터의 정의는 여러 실수의 나열 이라고 본다.
 
@@ -47,25 +49,24 @@
   ```math
   \overrightarrow{a} \times \overrightarrow{b}
   ```
-***
 
 * 두벡터의 덧셈
-```math
+    ```math
     \overrightarrow{a} + \overrightarrow{b} = a_x + b_x, a_y + b_y, a_z + b_z
     ```
     정의한다
 * 두벡터의 뺄셈
-```math
+    ```math
     \overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (- \overrightarrow{b})
     ```
 
 * 벡터와 스칼라의 곱셈
-```math
+    ```math
   k \cdot \overrightarrow{a} = \langle k \cdot a_x, k \cdot a_y, k \cdot a_z \rangle
   ```
 
 * 두 벡터의 내적(dot product)
-```math
+    ```math
   \overrightarrow{a} \cdot \overrightarrow{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z
   ```
   정의한다.

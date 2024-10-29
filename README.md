@@ -19,14 +19,14 @@ $\{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} \}$
 두가지 중요한 특성이 있다.
 
 1. $\overrightarrow{i}$, $\overrightarrow{j}$, $\overrightarrow{k}$ 를 각각 $<1,0,0>$, $<0,1,0>$, $<0,0,1>$로 정의한다.
-2. $\overrightarrow{v}$가 $<a,b,c>$라고 할 때 $-\overrightarrow{v}$를 $<-a,-b,-c>$로 정의 한다
+2. $\overrightarrow{v}$가 $<a,b,c>$라고 할 때 $\overrightarrow{v}$를 $<-a,-b,-c>$로 정의 한다
 
 ---
 ## 벡터의 연산 
 이러한 정의에 입각해 우리는 여러가지 세로운 연산을 정의 할 것이다.
 
 - 두 벡터의 합(두 벡터의 차)
-  $\overrightarrow{a} + \overrightarrow{b}$
+  $\overrightarrow{a}$-$\overrightarrow{b}$
 - 벡터와 스칼라 사이의 곱
   $k \cdot \overrightarrow{a}$
 - 두 벡터의 dot product
@@ -36,13 +36,13 @@ $\{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} \}$
 ***
 * 두벡터의 덧셈
     <br>
-    $\overrightarrow{a} + \overrightarrow{b} = \langle a_x + b_x, a_y + b_y, a_z + b_z \rangle$
+    $\overrightarrow{a} + \overrightarrow{b} = \langle a_x$$+$$b_x, a_y + b_y, a_z + b_z \rangle$
 
     정의한다
 
     두 벡터의 뺄셈은 
 <br>
-    $\overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})$
+    $\overrightarrow{a}$-$\overrightarrow{b} = \overrightarrow{a}$+$($-$\overrightarrow{b})$
 
     로 정의한다.
 

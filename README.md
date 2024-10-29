@@ -47,19 +47,19 @@ $\{ {<a,b,c> = \vec{v} | a,b,c \in \mathbb{R}} \}$
     로 정의한다.
 
 * 벡터와 스칼라의 곱셈
-<br>
+    <br>
     $k \cdot \vec{a} = \langle k \cdot a_x, k \cdot a_y, k \cdot a_z \rangle$
-    
+    <br>
     정의한다.
 
 * 두 벡터의 내적(dot product)
-<br>
+    <br>
     $\vec{a} \cdot \vec{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z$
-    
+    <br>
     정의한다.
 
 * 두 벡터의 외적(vector product)
-<br>
+    <br>
     $\vec{a} \times \vec{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle$
-    
+    <br>
     정의한다.

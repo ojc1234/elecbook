@@ -36,7 +36,7 @@
 ***
 
 * 두벡터의 덧셈
-    $\overrightarrow{a}$ $+$ $\overrightarrow{b}$ = $a_x + b_x, a_y + b_y, a_z + b_z$
+    $\overrightarrow{a} + \overrightarrow{b}$ $=$ $a_x + b_x, a_y + b_y, a_z + b_z$
     정의한다
 * 두벡터의 뺄셈
     $\overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})$

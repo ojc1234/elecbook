@@ -24,10 +24,10 @@
 두가지 중요한 특성이 있다.
 
 1. ```math
-   \overrightarrow{i}, \overrightarrow{j}, \overrightarrow{k} 를 각각 <1,0,0>, <0,1,0>, <0,0,1>로 정의한다.
+   \overrightarrow{i}, \overrightarrow{j}, \overrightarrow{k} 를 각각 \langle 1,0,0 \rangle, \langle 0,1,0 \rangle, \langle 0,0,1 \rangle로 정의한다.
    ```
 2. ```math
-   \overrightarrow{v}가 \langle a,b,c\rangle 라고 할 때 \overrightarrow{v}를 <-a,-b,-c>
+   \overrightarrow{v}가 \langle a,b,c\rangle 라고 할 때 \overrightarrow{v}를 \langle -a,-b,-c \rangle
    ```
    로 정의 한다
 

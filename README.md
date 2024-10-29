@@ -1,4 +1,4 @@
-# elecbook
+# eoverrightarrowbook
 
 전자기학 전자책 프로젝트
 
@@ -36,19 +36,19 @@
 ***
 
 * 두벡터의 덧셈
-    $\vec{a}+\vec{b}$ = $a_x + b_x, a_y + b_y, a_z + b_z$
+    $\overrightarrow{a}+\overrightarrow{b}$ = $a_x + b_x, a_y + b_y, a_z + b_z$
     정의한다
     두 벡터의 뺄셈은 
-    $\vec{a} - \vec{b} = \vec{a} + (-\vec{b})$
+    $\overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})$
     로 정의한다.
 
 * 벡터와 스칼라의 곱셈
-  $k \cdot \vec{a} = \langle k \cdot a_x, k \cdot a_y, k \cdot a_z \rangle$
+  $k \cdot \overrightarrow{a} = \langle k \cdot a_x, k \cdot a_y, k \cdot a_z \rangle$
   정의한다.
 
 * 두 벡터의 내적(dot product)
-  $\vec{a} \cdot \vec{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z$
+  $\overrightarrow{a} \cdot \overrightarrow{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z$
   정의한다.
 
-* 두 벡터의 외적(vector product)
-  $\vec{a} \times \vec{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle$
+* 두 벡터의 외적(overrightarrowtor product)
+  $\overrightarrow{a} \times \overrightarrow{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle$

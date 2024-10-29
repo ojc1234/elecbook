@@ -28,9 +28,9 @@ $\{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} \}$
 - 두 벡터의 합(두 벡터의 차)
   $\overrightarrow{a}$ $-$ $\overrightarrow{b}$
 - 벡터와 스칼라 사이의 곱
-  $k \cdot \overrightarrow{a}$
+  $k$ $\cdot$ $\overrightarrow{a}$
 - 두 벡터의 dot product
-  $\overrightarrow{a} \cdot \overrightarrow{b}$
+  $\overrightarrow{a}$ $\cdot$ $\overrightarrow{b}$
 - 두 벡터의 overrightarrowtor product
-  $\overrightarrow{a} \times \overrightarrow{b}$
+  $\overrightarrow{a}$ $\times$ $\overrightarrow{b}$
 ***

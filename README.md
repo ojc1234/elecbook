@@ -27,7 +27,7 @@
    \overrightarrow{i}, \overrightarrow{j}, \overrightarrow{k} 를 각각 <1,0,0>, <0,1,0>, <0,0,1>로 정의한다.
    ```
 2. ```math
-   \overrightarrow{v}가 <a,b,c>라고 할 때 \overrightarrow{v}를 <-a,-b,-c>
+   \overrightarrow{v}가 \langle a,b,c\rangle 라고 할 때 \overrightarrow{v}를 <-a,-b,-c>
    ```
    로 정의 한다
 

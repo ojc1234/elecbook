@@ -9,9 +9,9 @@
 
 # 벡터
 ## 벡터의 정의
-<center>
+
 { ${<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}}$ }
-</center>
+
 전자기학에서 쓰는 벡터의 정의는 여러 실수의 나열 이라고 본다.
 
 ---
@@ -26,7 +26,7 @@
 이러한 정의에 입각해 우리는 여러가지 세로운 연산을 정의 할 것이다.
 
 - 두 벡터의 합(두 벡터의 차)
-  $\overrightarrow{a}$ $-$ $\overrightarrow{b}$
+  $\overrightarrow{a}$$-$$\overrightarrow{b}$
 - 벡터와 스칼라 사이의 곱
   $k$ $\cdot$ $\overrightarrow{a}$
 - 두 벡터의 dot product
@@ -34,3 +34,26 @@
 - 두 벡터의 overrightarrowtor product
   $\overrightarrow{a}$ $\times$ $\overrightarrow{b}$
 ***
+
+* 두벡터의 덧셈
+    
+    $\vec{a}$ $+$ $\vec{b}$ $=$ <$a_x + b_x, a_y + b_y, a_z + b_z$ >
+
+    정의한다
+
+    두 벡터의 뺄셈은 
+
+    $\vec{a} - \vec{b} = \vec{a} + (-\vec{b})$
+
+    로 정의한다.
+
+* 벡터와 스칼라의 곱셈
+  $k \cdot \vec{a} = \langle k \cdot a_x, k \cdot a_y, k \cdot a_z \rangle$
+  정의한다.
+
+* 두 벡터의 내적(dot product)
+  $\vec{a} \cdot \vec{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z$
+  정의한다.
+
+* 두 벡터의 외적(vector product)
+  $\vec{a} \times \vec{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle$

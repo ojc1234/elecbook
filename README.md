@@ -26,7 +26,7 @@
 이러한 정의에 입각해 우리는 여러가지 세로운 연산을 정의 할 것이다.
 
 - 두 벡터의 합(두 벡터의 차)
-  $\overrightarrow{a}$$-$$\overrightarrow{b}$
+  $\overrightarrow{a}$ $-$ $\overrightarrow{b}$
 - 벡터와 스칼라 사이의 곱
   $k$ $\cdot$ $\overrightarrow{a}$
 - 두 벡터의 dot product

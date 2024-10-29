@@ -26,20 +26,20 @@ $$\{ {<a,b,c> = \vec{v} | a,b,c \in \mathbb{R}} \}$$
 이러한 정의에 입각해 우리는 여러가지 세로운 연산을 정의 할 것이다.
 
 - 두 벡터의 합(두 벡터의 차)
-  $$\vec{a} + \vec{b} $$
+  $$\vec{a} + \vec{b}$$
 - 벡터와 스칼라 사이의 곱
-  $$k \cdot \vec{a} $$
+  $$k \cdot \vec{a}$$
 - 두 벡터의 dot product
-  $$\vec{a} \cdot \vec{b} $$
+  $$\vec{a} \cdot \vec{b}$$
 - 두 벡터의 vector product
-  $$\vec{a} \times \vec{b} $$
+  $$\vec{a} \times \vec{b}$$
 ***
 * 두벡터의 덧셈
     $$\vec{a} + \vec{b} = \langle a_x + b_x, a_y + b_y, a_z + b_z \rangle$$
     정의한다
 
     두 벡터의 뺄셈은 
-    $$\vec{a} - \vec{b} = \vec{a} + (-\vec{b}) $$
+    $$\vec{a} - \vec{b} = \vec{a} + (-\vec{b})$$
 
     로 정의한다.
 

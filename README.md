@@ -1,5 +1,5 @@
 <!-- 각 기호마다 이거 붙이고 사이간격 뛰우기 -->
-
+<!-- ㅋㅋ -->
 # eoverrightarrowbook
 
 전자기학 전자책 프로젝트
@@ -36,7 +36,7 @@
 ```math
 f(x,y,z) = \overrightarrow{v}\ (\overrightarrow{v}는\ 임의의\ 벡터)
 일때\ 
-\\\\
+\newline
 f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 ```
 우리가 늘상 알아왔던 함수는 치역이 복소수였던 함수였다.<br>
@@ -51,7 +51,7 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
 - 두벡터의 덧셈
   ```math
-  \overrightarrow{a} + \overrightarrow{b} = a_x + b_x, a_y + b_y, a_z + b_z
+  \overrightarrow{a} + \overrightarrow{b} = \langle a_x + b_x, a_y + b_y, a_z + b_z \rangle
   ```
 - 두벡터의 뺄셈
 
@@ -89,9 +89,9 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
   ```math
   1차원\ 함수\ f(x)의 대해서
-    \\\\
+    \newline
       df = (\frac {df}{dx})dx
-    \\\\
+    \newline
     위식은 dx만큼 변할때 f가 얼마나 변하는지 나타낸다.
 
   ```
@@ -102,11 +102,11 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
   ```math
   3차원\ 함수\ f(x,y,z)에\ 대해서
-  \\\\
+  \newline
 
   df = \left( \frac{\partial f}{\partial x} \right) dx + \left( \frac{\partial f}{\partial y} \right) dy + \left( \frac{\partial f}{\partial z} \right) dz
-  \\\\ \
-  \\\\
+  \newline \
+  \newline
   위식은 dx,dy,dz 만큼 변할\ 때\ f가\ 얼마나\ 변하는지\ 나타낸다.
   ```
 ***
@@ -114,10 +114,10 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
 ```math
   \langle  \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle \cdot \langle dx, dy, dz \rangle = \nabla f \cdot d\overrightarrow{r}
-  \\\\
+  \newline
 \nabla f ≡  \langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle
-    \\\\
-    \ \\\\
+    \newline
+    \ \newline
     \nabla = \langle \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \rangle
 ```
 ## 벡터 미분

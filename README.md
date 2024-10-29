@@ -1,3 +1,4 @@
+<!-- 각 기호마다 $이거 붙이고 사이간격 뛰우기 -->
 # eoverrightarrowbook
 
 전자기학 전자책 프로젝트
@@ -39,7 +40,7 @@
     $\overrightarrow{a}$ + $\overrightarrow{b}$ $=$ $a_x + b_x, a_y + b_y, a_z + b_z$
     정의한다
 * 두벡터의 뺄셈
-    $\overrightarrow{a} - \overrightarrow{b} = \overrightarrow{a} + (-\overrightarrow{b})$
+    $\overrightarrow{a}$ $-$ $\overrightarrow{b}$ $=$ $\overrightarrow{a}$ $+$ $(-\overrightarrow{b})$
     로 정의한다.
 
 * 벡터와 스칼라의 곱셈

@@ -9,9 +9,9 @@
 
 # 벡터
 ## 벡터의 정의
-
-$\{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} \}$
-
+<center>
+{ ${<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}}$ }
+</center>
 전자기학에서 쓰는 벡터의 정의는 여러 실수의 나열 이라고 본다.
 
 ---

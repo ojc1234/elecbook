@@ -50,8 +50,11 @@
   정의한다.
 
 * 두 벡터의 내적(dot product)
-  $\overrightarrow{a} \cdot \overrightarrow{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z$
+```math
+  \overrightarrow{a} \cdot \overrightarrow{b} = a_x \cdot b_x + a_y \cdot b_y + a_z \cdot b_z
+  ```
   정의한다.
 
 * 두 벡터의 외적(overrightarrowtor product)
-  $\overrightarrow{a} \times \overrightarrow{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle$
+  ```math
+  \overrightarrow{a} \times \overrightarrow{b} = \langle a_y \cdot b_z - a_z \cdot b_y, a_z \cdot b_x - a_x \cdot b_z, a_x \cdot b_y - a_y \cdot b_x \rangle```

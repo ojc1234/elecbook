@@ -42,7 +42,7 @@ $\{ {<a,b,c> = \overrightarrow{v} | a,b,c \in \mathbb{R}} \}$
 
     두 벡터의 뺄셈은 
 <br>
-    $\overrightarrow{a}$-$\overrightarrow{b} = \overrightarrow{a}$+$($-$\overrightarrow{b})$
+    $\overrightarrow{a}$ $-$ $\overrightarrow{b}$ $=$ $\overrightarrow{a}$ $+$ ( $-$$\overrightarrow{b})$
 
     로 정의한다.
 

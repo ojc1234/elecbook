@@ -107,17 +107,20 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
   df = \left( \frac{\partial f}{\partial x} \right) dx + \left( \frac{\partial f}{\partial y} \right) dy + \left( \frac{\partial f}{\partial z} \right) dz
   ```
   ```math
-  위식은 dx,dy,dz 만큼 변할\ 때\ f가\ 얼마나\ 변하는지\ 나타낸다.
+  위식은 dx,dy,dz 만큼
+   변할\ 때\ f가\ 얼마나\
+    변하는지\ 나타낸다.
   ```
 ***
   위식의 점곱꼴은 다음과 같다.
 
 ```math
   \langle  \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle \cdot \langle dx, dy, dz \rangle = \nabla f \cdot d\overrightarrow{r}
-  \newline
+  ```
+  ```math
 \nabla f ≡  \langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle
-    \newline
-    \ \newline
+    ```
+    ```math
     \nabla = \langle \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \rangle
 ```
 ## 벡터 미분

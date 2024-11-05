@@ -89,13 +89,12 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
   ```math
   1차원\ 함수\ f(x)의 대해서
-    \newline
-      df = (\frac {df}{dx})dx
-    \newline
-    위식은 dx만큼 변할때 f가 얼마나 변하는지 나타낸다.
-
   ```
-
+  ```math
+  df = (\frac {df}{dx})dx
+  ```
+<br>
+위식은 dx만큼 변할때 f가 얼마나 변하는지 나타낸다.
   ***
 
 * 3차원 미분

@@ -102,11 +102,11 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
 
   ```math
   3차원\ 함수\ f(x,y,z)에\ 대해서
-  \newline
-
+  ```
+  ```math
   df = \left( \frac{\partial f}{\partial x} \right) dx + \left( \frac{\partial f}{\partial y} \right) dy + \left( \frac{\partial f}{\partial z} \right) dz
-  \newline \
-  \newline
+  ```
+  ```math
   위식은 dx,dy,dz 만큼 변할\ 때\ f가\ 얼마나\ 변하는지\ 나타낸다.
   ```
 ***

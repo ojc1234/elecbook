@@ -118,11 +118,11 @@ f를\ \overrightarrow{v}의대한\ 벡터장이라고 한다.
   \langle  \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle \cdot \langle dx, dy, dz \rangle = \nabla f \cdot d\overrightarrow{r}
   ```
   ```math
-\nabla f ≡  \langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle
-    ```
-    ```math
-    \nabla = \langle \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \rangle
-```
+  \nabla f ≡  \langle \frac{\partial f}{\partial x}, \frac{\partial f}{\partial y}, \frac{\partial f}{\partial z} \rangle
+  ```
+  ```math
+  \nabla = \langle \frac{\partial}{\partial x}, \frac{\partial}{\partial y}, \frac{\partial}{\partial z} \rangle
+  ```
 ## 벡터 미분
 1. 기울기
 ```math
